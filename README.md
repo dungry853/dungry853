@@ -1,5 +1,5 @@
 # 💫About Me :
-Trai Dep IT
+Hello, My name's Dũng, i'm a student at Ho Chi Minh City University of Industry and Trade ( HUIT ). Welcome to my github
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dungry853/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_zunxhoof_/) 
