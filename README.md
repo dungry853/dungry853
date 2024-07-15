@@ -1,11 +1,11 @@
 # 💫Hi, I'm Dũng!
 Welcome to my Github Profile 💫
 
-### 🌐Connect with me
+## 🌐Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dungry853) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_zunxhoof_) 
 
-### 💻Skills
+## 💻Skills
 #### Programming Language
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -52,7 +52,7 @@ Welcome to my Github Profile 💫
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)   
   ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-### 📊GitHub Stats :
+## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=dungry853&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dungry853&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dungry853&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
