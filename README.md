@@ -8,10 +8,6 @@
 <a href="https://fb.com/dungry853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dungry853" height="30" width="40" /></a>
 <a href="https://instagram.com/_zunxhoof_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_zunxhoof_" height="30" width="40" /></a>
 
-## 📊GitHub Stats :
-<br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungry853&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="dungry853" /></p><br>
-
 
 
 
